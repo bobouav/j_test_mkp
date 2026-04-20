@@ -1,0 +1,44 @@
+{
+  "name": "build-web-lab",
+  "version": "0.1.0",
+  "description": "Testing plugin for web UI planning, audits, and lightweight launch work.",
+  "author": {
+    "name": "bobouav",
+    "email": "noreply@example.com",
+    "url": "https://github.com/bobouav"
+  },
+  "homepage": "https://github.com/bobouav/j_test_mkp",
+  "repository": "https://github.com/bobouav/j_test_mkp",
+  "license": "MIT",
+  "keywords": [
+    "testing",
+    "web",
+    "frontend",
+    "ui"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Build Web Lab",
+    "shortDescription": "Prototype, review, and tighten small web app changes",
+    "longDescription": "Use Build Web Lab to audit frontend structure, shape small implementation plans, and prepare simple launch-ready follow-up tasks for test projects.",
+    "developerName": "bobouav",
+    "category": "Coding",
+    "capabilities": [
+      "Interactive",
+      "Read",
+      "Write"
+    ],
+    "websiteURL": "https://github.com/bobouav/j_test_mkp",
+    "privacyPolicyURL": "https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement",
+    "termsOfServiceURL": "https://docs.github.com/en/site-policy/github-terms/github-terms-of-service",
+    "defaultPrompt": [
+      "Audit this frontend and suggest the next three improvements.",
+      "Turn this product idea into a small web app plan.",
+      "Review this UI change before I ship it."
+    ],
+    "brandColor": "#0F766E",
+    "composerIcon": "./assets/build-web-lab-icon.svg",
+    "logo": "./assets/build-web-lab-logo.svg",
+    "screenshots": []
+  }
+}

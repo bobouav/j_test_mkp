@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-label="Research Scout logo">
+  <rect width="160" height="160" rx="28" fill="#1D4ED8"/>
+  <circle cx="72" cy="70" r="34" fill="#DBEAFE"/>
+  <path d="M96 96l22 22" stroke="#BFDBFE" stroke-linecap="round" stroke-width="12"/>
+  <path d="M56 70h32m-16-16v32" stroke="#1E3A8A" stroke-linecap="round" stroke-width="6"/>
+  <text x="80" y="142" fill="#EFF6FF" font-family="Helvetica, Arial, sans-serif" font-size="16" text-anchor="middle">SCOUT</text>
+</svg>

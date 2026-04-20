@@ -1,0 +1,44 @@
+{
+  "name": "design-review-mini",
+  "version": "0.1.0",
+  "description": "Testing plugin for concise UX critique and visual polish recommendations.",
+  "author": {
+    "name": "bobouav",
+    "email": "noreply@example.com",
+    "url": "https://github.com/bobouav"
+  },
+  "homepage": "https://github.com/bobouav/j_test_mkp",
+  "repository": "https://github.com/bobouav/j_test_mkp",
+  "license": "MIT",
+  "keywords": [
+    "testing",
+    "design",
+    "ux",
+    "review"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Design Review Mini",
+    "shortDescription": "Give fast UI critique with focused next-step suggestions",
+    "longDescription": "Use Design Review Mini to assess clarity, hierarchy, and friction in a small product surface, then return a short list of prioritized changes.",
+    "developerName": "bobouav",
+    "category": "Design",
+    "capabilities": [
+      "Interactive",
+      "Read",
+      "Write"
+    ],
+    "websiteURL": "https://github.com/bobouav/j_test_mkp",
+    "privacyPolicyURL": "https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement",
+    "termsOfServiceURL": "https://docs.github.com/en/site-policy/github-terms/github-terms-of-service",
+    "defaultPrompt": [
+      "Review this screen and point out the biggest UX issues.",
+      "Give me three high-impact design changes for this flow.",
+      "Critique this interface for clarity and visual hierarchy."
+    ],
+    "brandColor": "#DC2626",
+    "composerIcon": "./assets/design-review-mini-icon.svg",
+    "logo": "./assets/design-review-mini-logo.svg",
+    "screenshots": []
+  }
+}

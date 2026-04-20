@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Design Review Mini icon">
+  <rect width="64" height="64" rx="16" fill="#DC2626"/>
+  <rect x="18" y="18" width="28" height="28" rx="6" fill="#FEE2E2"/>
+  <path d="M24 26h16m-16 7h10m-10 7h16" stroke="#991B1B" stroke-linecap="round" stroke-width="3"/>
+  <circle cx="46" cy="18" r="8" fill="#FCA5A5"/>
+</svg>

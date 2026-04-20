@@ -1,0 +1,44 @@
+{
+  "name": "research-scout",
+  "version": "0.1.0",
+  "description": "Testing plugin for source synthesis, note distillation, and fast research handoffs.",
+  "author": {
+    "name": "bobouav",
+    "email": "noreply@example.com",
+    "url": "https://github.com/bobouav"
+  },
+  "homepage": "https://github.com/bobouav/j_test_mkp",
+  "repository": "https://github.com/bobouav/j_test_mkp",
+  "license": "MIT",
+  "keywords": [
+    "testing",
+    "research",
+    "notes",
+    "analysis"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Research Scout",
+    "shortDescription": "Synthesize sources into crisp findings and follow-ups",
+    "longDescription": "Use Research Scout to gather source-level findings, collapse them into a quick brief, and hand back a small list of open questions for the next pass.",
+    "developerName": "bobouav",
+    "category": "Productivity",
+    "capabilities": [
+      "Interactive",
+      "Read",
+      "Write"
+    ],
+    "websiteURL": "https://github.com/bobouav/j_test_mkp",
+    "privacyPolicyURL": "https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement",
+    "termsOfServiceURL": "https://docs.github.com/en/site-policy/github-terms/github-terms-of-service",
+    "defaultPrompt": [
+      "Summarize these sources into a short research brief.",
+      "Turn these notes into findings and open questions.",
+      "Compare these references and highlight the tradeoffs."
+    ],
+    "brandColor": "#1D4ED8",
+    "composerIcon": "./assets/research-scout-icon.svg",
+    "logo": "./assets/research-scout-logo.svg",
+    "screenshots": []
+  }
+}

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Research Scout icon">
+  <rect width="64" height="64" rx="16" fill="#1D4ED8"/>
+  <circle cx="28" cy="28" r="12" fill="#DBEAFE"/>
+  <path d="M37 37l9 9" stroke="#DBEAFE" stroke-linecap="round" stroke-width="6"/>
+  <path d="M22 28h12m-6-6v12" stroke="#1E3A8A" stroke-linecap="round" stroke-width="3"/>
+</svg>

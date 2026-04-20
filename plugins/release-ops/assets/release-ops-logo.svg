@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-label="Release Ops logo">
+  <rect width="160" height="160" rx="28" fill="#B45309"/>
+  <path d="M42 34h58l18 18v74H42z" fill="#FEF3C7"/>
+  <path d="M100 34v24h24" fill="#FCD34D"/>
+  <path d="M58 76h44m-44 18h44m-44 18h28" stroke="#92400E" stroke-linecap="round" stroke-width="6"/>
+  <text x="80" y="142" fill="#FFF7ED" font-family="Helvetica, Arial, sans-serif" font-size="16" text-anchor="middle">RELEASE</text>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Build Web Lab icon">
+  <rect width="64" height="64" rx="16" fill="#0F766E"/>
+  <path d="M18 22h28v20H18z" fill="#CCFBF1"/>
+  <path d="M22 18h20v6H22z" fill="#99F6E4"/>
+  <path d="M24 30h16v2H24zm0 5h10v2H24zm0 5h12v2H24z" fill="#115E59"/>
+</svg>

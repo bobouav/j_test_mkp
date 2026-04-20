@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Release Ops icon">
+  <rect width="64" height="64" rx="16" fill="#B45309"/>
+  <path d="M18 18h28l0 28H18z" fill="#FEF3C7"/>
+  <path d="M24 28h16m-16 7h16m-16 7h10" stroke="#92400E" stroke-linecap="round" stroke-width="3"/>
+  <path d="M42 18v12H30" fill="none" stroke="#FCD34D" stroke-linejoin="round" stroke-width="4"/>
+</svg>

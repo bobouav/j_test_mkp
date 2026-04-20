@@ -1,0 +1,44 @@
+{
+  "name": "release-ops",
+  "version": "0.1.0",
+  "description": "Testing plugin for release readiness checks, branch hygiene, and handoff prep.",
+  "author": {
+    "name": "bobouav",
+    "email": "noreply@example.com",
+    "url": "https://github.com/bobouav"
+  },
+  "homepage": "https://github.com/bobouav/j_test_mkp",
+  "repository": "https://github.com/bobouav/j_test_mkp",
+  "license": "MIT",
+  "keywords": [
+    "testing",
+    "release",
+    "ops",
+    "git"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Release Ops",
+    "shortDescription": "Prepare a release pass and tighten the final handoff",
+    "longDescription": "Use Release Ops to check git state, shape release notes, and produce a simple list of validation steps before a test deployment or PR handoff.",
+    "developerName": "bobouav",
+    "category": "Coding",
+    "capabilities": [
+      "Interactive",
+      "Read",
+      "Write"
+    ],
+    "websiteURL": "https://github.com/bobouav/j_test_mkp",
+    "privacyPolicyURL": "https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement",
+    "termsOfServiceURL": "https://docs.github.com/en/site-policy/github-terms/github-terms-of-service",
+    "defaultPrompt": [
+      "Check this repo for release readiness issues.",
+      "Draft release notes from the recent changes.",
+      "List the validation steps before I push this branch."
+    ],
+    "brandColor": "#B45309",
+    "composerIcon": "./assets/release-ops-icon.svg",
+    "logo": "./assets/release-ops-logo.svg",
+    "screenshots": []
+  }
+}
