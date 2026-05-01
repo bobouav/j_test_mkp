@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Content Forge icon">
+  <rect width="64" height="64" rx="16" fill="#7E22CE"/>
+  <path d="M18 18h28v28H18z" fill="#F3E8FF"/>
+  <path d="M24 28h16m-16 8h16m-16 8h10" stroke="#581C87" stroke-linecap="round" stroke-width="3"/>
+  <circle cx="44" cy="20" r="6" fill="#D8B4FE"/>
+</svg>

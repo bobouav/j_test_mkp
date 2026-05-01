@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-label="Data Pulse logo">
+  <rect width="160" height="160" rx="28" fill="#0E7490"/>
+  <path d="M36 108h18V72H36zm28 0h18V52H64zm28 0h18V82H92z" fill="#CFFAFE"/>
+  <path d="M38 52l26 12 24-18 34 14" fill="none" stroke="#A5F3FC" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+  <text x="80" y="142" fill="#ECFEFF" font-family="Helvetica, Arial, sans-serif" font-size="16" text-anchor="middle">DATA</text>
+</svg>

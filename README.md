@@ -15,6 +15,9 @@ It keeps the same core layout:
 - `research-scout`: source synthesis and note distillation
 - `release-ops`: release readiness checks and handoff prep
 - `design-review-mini`: quick design review and UX feedback
+- `incident-desk`: incident triage, operator notes, and response checklists
+- `data-pulse`: metric review, anomaly triage, and data follow-up prompts
+- `content-forge`: content planning, draft shaping, and campaign polish
 
 ## Repository structure
 
@@ -25,6 +28,9 @@ plugins/
   research-scout/
   release-ops/
   design-review-mini/
+  incident-desk/
+  data-pulse/
+  content-forge/
 ```
 
 ## Notes

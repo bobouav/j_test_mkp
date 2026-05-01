@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-label="Content Forge logo">
+  <rect width="160" height="160" rx="28" fill="#7E22CE"/>
+  <rect x="38" y="34" width="84" height="88" rx="14" fill="#F3E8FF"/>
+  <path d="M56 62h48m-48 18h48m-48 18h30" stroke="#581C87" stroke-linecap="round" stroke-width="6"/>
+  <circle cx="110" cy="46" r="12" fill="#D8B4FE"/>
+  <text x="80" y="140" fill="#FAF5FF" font-family="Helvetica, Arial, sans-serif" font-size="15" text-anchor="middle">CONTENT</text>
+</svg>

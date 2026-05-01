@@ -1,0 +1,7 @@
+{
+  "apps": {
+    "content-forge-demo": {
+      "description": "Placeholder app surface for content workflow experiments."
+    }
+  }
+}

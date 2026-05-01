@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Data Pulse icon">
+  <rect width="64" height="64" rx="16" fill="#0E7490"/>
+  <path d="M16 42h8V28h-8zm12 0h8V20h-8zm12 0h8V32h-8z" fill="#CFFAFE"/>
+  <path d="M16 18l10 8 10-6 12 4" fill="none" stroke="#A5F3FC" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+</svg>
